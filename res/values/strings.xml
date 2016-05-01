@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maze</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_how_to_play">HowToPlayActivity</string>
+    <string name="title_activity_boss_battle">BossBattleActivity</string>
+    
+    <string name="moblin_appeared">The Moblin has appeared near the start point. Go and defeat him to open the exit of the maze.</string>
+    <string name="exit_available">The exit has appeared at the bottom of the maze, reach to it carefully.</string>
+    <string name="navy_hint">How about playing some ping-pong?</string>
+    <string name="ganon_appeared">So you where able to pass through the Maze of Doom. Lets see if you can defeat the King of Evil.</string>
+    <string name="ganon_defeated">Arrgh! you may win this time, but we will face again in some other official game.</string>
+
+    <string name="achievement_maze_finished_once">CgkIlbuclZ8MEAIQAA</string>
+    <string name="achievement_maze_finished_full_life">CgkIlbuclZ8MEAIQAQ</string>
+    <string name="achievement_maze_finished_time">CgkIlbuclZ8MEAIQAg</string>
+    <string name="achievement_maze_moblin_killed_by_deku">CgkIlbuclZ8MEAIQAw</string>
+    <string name="achievement_ganon_defeated">CgkIlbuclZ8MEAIQBA</string>
+
+</resources>

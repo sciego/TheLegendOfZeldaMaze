@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button">#FFFF00</color> 
+    <color name="button_pressed">#C8C800</color>
+    <color name="mainlayout_background">#99A000</color>
+    <color name="childlayout_background">#99CC00</color>
+    <color name="title">#FFFFFF</color>
+    <color name="text">#000000</color>
+    <color name="control_button">#0D2E50</color>
+    <color name="control_button_pressed">#0000FF</color>
+</resources>
